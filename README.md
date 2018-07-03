@@ -1,2 +1,0 @@
-# CursoJs
-Created with CodeSandbox
